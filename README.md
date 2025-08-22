@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 💫, I'm Ghazanfar Ali</h1>
 
-<p align="center">A passionate Software Engineering student crafting seamless mobile apps with <b>Flutter</b> and robust APIs with <b>Django REST Framework.</p>
+<p align="center">A passionate Software Engineering student crafting seamless mobile apps with <b>Flutter, Firebase</b> and robust APIs with <b>Django REST Framework.</p>
 
 - 🔭 I’m currently working on **Flutter** 
 - 🌱 I’m currently learning **backend development**  
