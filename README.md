@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **backend development**  
 - 💬 Ask me about **Flutter**, **Django Rest**, or **mobile app development**  
 - 📫 Reach me at: **salam032136muet@gmail.com** | **+923211881365** | **WhatsApp: +923463445490**  
-- 🌐 Connect with me on: [LinkedIn](https://linkedin.com/in/ghazanfar-ali-leghari)  
+- 🌐 Connect with me on: [LinkedIn](https://www.linkedin.com/in/ghazanfar-ali-leghari/)  
 - ⚡ Fun fact: I’m a cricket enthusiast and love smashing it on the table tennis court!  
 
 ---
