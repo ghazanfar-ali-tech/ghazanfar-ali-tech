@@ -35,7 +35,7 @@
 ### GitHub Stats
 <!-- Ensure you have public repos with commits to display stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazanfar-ali-tech&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Ghazanfar's%20GitHub%20Stats" alt="Ghazanfar Ali's GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghazanfar-ali-tech&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 </p>
 <!-- If empty, create public repos (e.g., for Voice Mate or E-commerce App) and add commits -->
 
