@@ -35,14 +35,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ghazanfar-ali-tech&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Ghazanfar's%20GitHub%20Stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazanfar-ali-tech&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Ghazanfar's%20GitHub%20Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazanfar-ali-tech&layout=compact&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazanfar-ali-tech&layout=compact&theme=radical" />
 </p>
+
 
 
 <!-- If languages are empty, ensure public repos have code in Dart, Python, etc. -->
